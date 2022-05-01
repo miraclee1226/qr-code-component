@@ -1,2 +1,2 @@
-# qr-code-component
-html과 css를 이용해 qr code component 구축하기
+# QR-code-component
+HTML과 CSS로 QR code component 구축하기
